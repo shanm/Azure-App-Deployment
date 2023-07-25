@@ -14,4 +14,4 @@ pip install -r requirements.txt # install dependencies
 
 flask run
 
-Finally we can see the sample response on http://127.0.0.1:5000/
+You can test that all the endpoints are working by testing the app in an API testing tool with http://127.0.0.1:5000/, like Postman.
