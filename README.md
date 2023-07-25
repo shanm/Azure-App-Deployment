@@ -1,6 +1,6 @@
 # Azure-App-Service
 
-# To be followed the steps to deploy on development
+# Steps to be followed to set-up on development environment
 
 git clone https://github.com/shanm/Azure-App-Deployment.git # Clone the repository
 
