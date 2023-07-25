@@ -12,4 +12,6 @@ env/Scripts/activate # activate virtual environment, if you're using Linux, sour
 
 pip install -r requirements.txt # install dependencies
 
-Finally run on https://webapp-sample-kushanm.azurewebsites.net/home
+flask run
+
+Finally we can see the sample response on http://127.0.0.1:5000/
